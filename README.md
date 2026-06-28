@@ -1,193 +1,100 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Vaishali%20Sharma&fontSize=46&fontColor=00d9a3&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20%7C%20Manual%20%2B%20Automation%20Testing&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
+```
+─────────────────────────────────────────────────────
+  QUALITY ASSURANCE · INSPECTION RECORD
+─────────────────────────────────────────────────────
+```
 
-<br/>
+# Vaishali Sharma
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=5B8DEF&center=true&vCenter=true&width=600&lines=Breaking+things+on+purpose%2C+professionally.;200%2B+test+cases+%C2%B7+80%2B+defects+caught.;Manual+%E2%86%92+Automation+%E2%86%92+CI%2FCD%2C+one+step+at+a+time." alt="Typing SVG" />
+**QA Engineer** — Manual & Automation Testing
 
-<br/><br/>
+`Ghaziabad, India` · [shvaishali37@gmail.com](mailto:shvaishali37@gmail.com) · [in/vaishalisharma01](https://linkedin.com/in/vaishalisharma01)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B8DEF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaishalisharma01)
-[![Email](https://img.shields.io/badge/Email-00D9A3?style=for-the-badge&logo=gmail&logoColor=0d1117)](mailto:shvaishali37@gmail.com)
-[![Location](https://img.shields.io/badge/Ghaziabad,_India-F0A73C?style=for-the-badge&logo=googlemaps&logoColor=0d1117)](#)
+**Status:** ✅ Actively shipping · Open to QA / SDET roles
 
 </div>
 
 <br/>
 
-<table align="center" width="100%">
-<tr>
-<td align="center" width="20%">
+> Quality is not what I check at the end. It's what I track from the first sprint to the last sign-off.
 
-### 🟢 90%+
-<sub>Test coverage<br/>maintained</sub>
-
-</td>
-<td align="center" width="20%">
-
-### 🟢 80+
-<sub>Defects logged,<br/>95% same-sprint fix</sub>
-
-</td>
-<td align="center" width="20%">
-
-### 🔵 30%
-<sub>Manual execution<br/>time cut via automation</sub>
-
-</td>
-<td align="center" width="20%">
-
-### 🔵 15+
-<sub>Data-layer bugs<br/>caught pre-UAT</sub>
-
-</td>
-<td align="center" width="20%">
-
-### 🟡 3
-<sub>Production releases<br/>signed off</sub>
-
-</td>
-</tr>
-</table>
+I'm a QA Engineer with about a year of experience testing enterprise GRC tools and web applications — manual and automation, end to end. I write test plans, run regression and API suites, query backend data to confirm it matches what the frontend reports, and own defects from discovery through resolution. I sit in sprint planning, not outside it, and I've signed off on production releases, not just tested toward them.
 
 <br/>
 
-## 👋 About
+---
 
-I'm a QA Engineer with about a year of hands-on experience testing enterprise GRC tools and web applications — manual and automation, end to end. I write test plans, run regression and API suites, query databases to verify what the frontend is *actually* showing matches what's in the backend, and track defects in JIRA until they're closed, not just logged.
+## Findings
 
-I work inside Agile teams, not around them — sprint planning, stand-ups, retros, and release sign-off are part of how I work, not extra steps.
+*Selected results from twelve months in production environments.*
+
+| # | Finding | Evidence |
+|:-:|---|---|
+| 01 | Maintained test coverage above industry baseline | **90%+** across release cycles, 200+ test cases written and executed |
+| 02 | Reduced manual execution overhead through automation | **−30%** execution time via JUnit + Postman automated suites |
+| 03 | Surfaced defects before they reached production | **80+ defects** logged with reproduction steps; **95%** resolved same-sprint |
+| 04 | Caught data-layer faults invisible to manual UI review | **15+ bugs** found via SQL cross-checks against MSSQL, pre-UAT |
+| 05 | Validated API contracts continuously, not just at release | **10+ endpoints** tested per sprint via Postman |
+| 06 | Signed off on production readiness | **3 releases** reviewed and approved for deployment |
+
+<br/>
+
+---
+
+## Tooling Used in This Inspection
 
 ```
-if (bug.exists() && !bug.isReported()) {
-    throw new ConscienceError("Found it. Logging it. Not shipping it quiet.");
-}
+LANGUAGES        Python · SQL
+AUTOMATION       TestNG · JUnit · Postman · JMeter
+DATA LAYER       MSSQL · MySQL
+TRACKING         JIRA · Git
+METHODOLOGY      Agile/Scrum · SDLC · Shift-Left Testing
+IN PROGRESS      Jenkins (CI/CD) · TestRail · BrowserStack
 ```
 
-<br/>
-
-## 🧰 Tech Stack
-
-<table align="center" width="100%">
-<tr>
-<td valign="top" width="25%">
-
-**Languages**
-<br/>
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00D9A3)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=00D9A3)
-
-</td>
-<td valign="top" width="25%">
-
-**Test Automation**
-<br/>
-
-![TestNG](https://img.shields.io/badge/TestNG-0d1117?style=flat-square&logo=testinglibrary&logoColor=5B8DEF)
-![JUnit](https://img.shields.io/badge/JUnit-0d1117?style=flat-square&logo=junit5&logoColor=5B8DEF)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=5B8DEF)
-![JMeter](https://img.shields.io/badge/JMeter-0d1117?style=flat-square&logo=apachejmeter&logoColor=5B8DEF)
-
-</td>
-<td valign="top" width="25%">
-
-**Data & Defects**
-<br/>
-
-![MSSQL](https://img.shields.io/badge/MSSQL-0d1117?style=flat-square&logo=microsoftsqlserver&logoColor=00D9A3)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=00D9A3)
-![JIRA](https://img.shields.io/badge/JIRA-0d1117?style=flat-square&logo=jira&logoColor=5B8DEF)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=5B8DEF)
-
-</td>
-<td valign="top" width="25%">
-
-**Currently Learning**
-<br/>
-
-![Jenkins](https://img.shields.io/badge/Jenkins-0d1117?style=flat-square&logo=jenkins&logoColor=F0A73C)
-![TestRail](https://img.shields.io/badge/TestRail-0d1117?style=flat-square&logo=testrail&logoColor=F0A73C)
-![BrowserStack](https://img.shields.io/badge/BrowserStack-0d1117?style=flat-square&logo=browserstack&logoColor=F0A73C)
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>Full skill matrix</b></summary>
-<br/>
-
-| Category | Skills |
-|---|---|
-| **Testing Types** | Manual · Automation · API · Regression · Smoke · Black-box · GUI · Cross-browser · Performance · Database |
-| **Methodologies** | Test Planning · Test Case Design · Defect Management · Bug Lifecycle · Agile/Scrum · SDLC · Shift-Left Testing |
-| **Documentation** | Test Plans · Test Reports · Traceability · Sign-off Reports |
-
-</details>
+<sub>Listed plainly, on purpose — the work should speak before the logos do.</sub>
 
 <br/>
 
-## 🚀 Featured Work
+---
 
-<table align="center" width="100%">
-<tr>
-<td valign="top" width="50%">
+## Case Files
 
-### 🏨 Stay Portal
-Booking & payment platform — full QA ownership across functional, regression, and cross-browser testing.
+**01 — Stay Portal**
+Booking and payment platform. Full-cycle QA across functional, regression, and cross-browser testing.
 
-- 📈 **+35%** booking flow efficiency
-- ⚡ **−40%** interface load time
-- 🐛 **50+** defects tracked to resolution
-- ✅ Payment accuracy validated via MySQL
+&nbsp;&nbsp;&nbsp;&nbsp;→ Booking flow efficiency improved **35%**
+&nbsp;&nbsp;&nbsp;&nbsp;→ Interface load time cut **40%**
+&nbsp;&nbsp;&nbsp;&nbsp;→ 50+ defects tracked to closure; payment data verified against MySQL
+&nbsp;&nbsp;&nbsp;&nbsp;→ *Tools: JIRA, MSSQL, cross-browser & automation testing*
 
-`JIRA` `MSSQL` `Cross-Browser Testing` `Manual + Automation`
+**02 — Data Processing & Reporting Pipeline**
+ETL validation from raw ingestion through to generated reports.
 
-</td>
-<td valign="top" width="50%">
-
-### 🔄 Data Processing & Reporting Tool
-ETL pipeline validation — raw data ingestion through to downstream reports.
-
-- 🛡️ Defects caught **before** they reached reports
-- ⏱️ **−25%** regression time via reusable TestNG suites
-- 🔁 Validated data transformation logic across builds
-
-`TestNG` `JUnit` `MSSQL` `Automation Testing`
-
-</td>
-</tr>
-</table>
+&nbsp;&nbsp;&nbsp;&nbsp;→ Defects caught upstream, before reaching downstream reports
+&nbsp;&nbsp;&nbsp;&nbsp;→ Reusable TestNG suites cut regression time **25%**
+&nbsp;&nbsp;&nbsp;&nbsp;→ *Tools: TestNG, JUnit, MSSQL*
 
 <br/>
 
-## 📊 GitHub Activity
+---
+
+## Sign-Off
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kikiguhi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9A3&icon_color=5B8DEF&text_color=c9d1d9&ring_color=00D9A3" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikiguhi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9A3&text_color=c9d1d9" width="38%" />
+I'm looking for QA Engineer / SDET roles where testing is treated as engineering — not a final gate before release, but a discipline built in from sprint one.
 
-<br/>
+If that's the kind of team you're building, let's talk.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kikiguhi&theme=dark&hide_border=true&background=0d1117&ring=00D9A3&fire=F0A73C&currStreakLabel=00D9A3" width="60%"/>
+**[Email](mailto:shvaishali37@gmail.com)** · **[LinkedIn](https://linkedin.com/in/vaishalisharma01)**
 
-</div>
-
-<br/>
-
-## 🎯 What I'm Looking For
-
-Open to **QA Engineer / SDET / Automation Tester** roles where I can grow from manual + scripted automation toward full CI/CD-integrated test ownership. Particularly interested in teams that treat testing as part of engineering, not an afterthought before release.
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=120&section=footer"/>
-
-<sub>Thanks for reading this far — that's already better QA instincts than most. 🟢</sub>
+```
+─────────────────────────────────────────────────────
+  Reviewed and approved for release.
+─────────────────────────────────────────────────────
+```
 
 </div>
