@@ -327,4 +327,3 @@ Booking Flow ──▶️ Payment Gateway ──▶️ Confirmation ──▶️
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,30:ED93B1,70:AFA9EC,100:EEEDFE&height=120&section=footer" width="100%"/>
 
 </div>
-Isko check kariyo
