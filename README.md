@@ -259,12 +259,12 @@ Booking Flow ──▶️ Payment Gateway ──▶️ Confirmation ──▶️
 ## ✦ Career Timeline
 
 ```
-  2019 ──────────────────────────────────────────────────── now
+  2019 ────────────────────────────────── now
 
-  [BCA]          [MCA]              [QA @ Whitehats]    [Next ✨]
-  IMS Univ    ABES College         Enterprise GRC     Open to work
-  7.2 CGPA     7.7 CGPA          Feb 2025–Jan 2026   Intermediate QA
-  2019–2022    2022–2024         200+ cases · 80+ bugs  roles in IN
+  [BCA]             [MCA]            [QA @ Whitehats]    
+  IMS Univ       ABES College         Enterprise GRC     
+  7.2 CGPA         7.7 CGPA          Feb 2025–Jan 2026   
+  2019–2022       2022–2024       2 00+ cases · 80+ bugs  
 ```
 
 ---
@@ -320,6 +320,8 @@ Booking Flow ──▶️ Payment Gateway ──▶️ Confirmation ──▶️
 
 <br/>
 
+<br/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,30:ED93B1,70:AFA9EC,100:EEEDFE&height=120&section=footer" width="100%"/>
 
 </div>
