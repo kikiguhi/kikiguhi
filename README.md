@@ -291,8 +291,8 @@ Booking Flow ──▶️ Payment Gateway ──▶️ Confirmation ──▶️
 ```
   ╭────────────────────────────────────────────────────────╮
   │                                                        │
-  │   "Quality is not an act, it is a habit."             │
-  │                                    — Aristotle        │
+  │ "Quality means doing it right when no one is looking." │
+  │                                    — Henry Ford       │
   │                                                        │
   │   Every bug I catch = one less frustrated user  🌸    │
   │                                                        │
@@ -318,7 +318,7 @@ Booking Flow ──▶️ Payment Gateway ──▶️ Confirmation ──▶️
 <br/>
 
 > 🟢 &nbsp; **Currently available** for intermediate QA Engineer roles in the software industry.
-> I reply within 24 hours and bring good energy to every team. Let's talk! 💜
+> Open to collaborations and opportunities.
 
 <br/>
 
