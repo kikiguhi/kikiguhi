@@ -1,262 +1,330 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=180&section=header&text=Vaishali%20Sharma&fontSize=42&fontColor=58A6FF&fontAlignY=40&desc=Quality%20Assurance%20Engineer%20%7C%20Manual%20%2B%20Automation%20Testing&descAlignY=58&descSize=16&descColor=8B949E&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEEDFE,30:AFA9EC,70:ED93B1,100:F4C0D1&height=200&section=header&text=Vaishali%20Sharma&fontSize=48&fontColor=26215C&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20%E2%80%A2%20Bug%20Hunter%20%E2%80%A2%20Quality%20Advocate&descAlignY=58&descSize=16&descColor=534AB7" width="100%"/>
+</div>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/vaishalisharma01">
-  <img src="https://img.shields.io/badge/LinkedIn-058CC2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=22&duration=2000&pause=900&color=7F77DD&center=true&vCenter=true&width=600&height=50&lines=Hey!+I'm+Vaishali+%F0%9F%8C%B8;QA+Engineer+%7C+Bug+Hunter+%F0%9F%90%9B;I+break+software+so+users+don't+have+to+%E2%9C%A8;200%2B+test+cases+%C2%B7+80%2B+bugs+caught+%C2%B7+0+regrets;Open+to+work+%E2%80%94+let%27s+build+quality+%F0%9F%92%9C" alt="Typing SVG" />
 </a>
-<a href="mailto:shvaishali37@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D29922?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/Ghaziabad,_India-3FB950?style=for-the-badge&logo=googlemaps&logoColor=white" />
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vaishalisharma01-7F77DD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=534AB7)](https://www.linkedin.com/in/vaishalisharma01/)
+[![Gmail](https://img.shields.io/badge/Gmail-shvaishali37-D4537E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=993556)](mailto:shvaishali37@gmail.com)
+[![Location](https://img.shields.io/badge/%F0%9F%93%8D-Ghaziabad%2C%20India-AFA9EC?style=for-the-badge&labelColor=534AB7)](https://maps.google.com/?q=Ghaziabad)
+[![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2-Open%20to%20Work-86EFAC?style=for-the-badge&labelColor=16A34A)](mailto:shvaishali37@gmail.com)
+![Views](https://komarev.com/ghpvc/?username=vaishalisharma01&style=for-the-badge&color=AFA9EC&label=Profile+Views)
 
 </div>
 
 <br/>
 
-<table align="center" width="100%">
+---
+
+## ✦ About Me
+
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%">
 
-### `whoami`
-
-I find the bugs that ship-blockers hide behind. About a year into my QA career, working across **manual testing, automation, and API validation** on enterprise GRC platforms and web apps — and I've already shaved real time off release cycles and caught real bugs before they reached production.
-
-I treat test coverage like a contract, not a checkbox.
-
-</td>
-<td width="50%" valign="top">
-
-### `currently`
-
-```yaml
-role:        Quality Analyst
-company:     Whitehats Technologies
-stack:       TestNG · Postman · SQL · JMeter
-focus:       API testing, regression suites,
-             defect lifecycle ownership
-learning:    Jenkins CI/CD, TestRail, BrowserStack
-status:      Open to new opportunities ✅
+```kotlin
+data class Vaishali(
+  val role     : String = "QA Engineer",
+  val location : String = "Ghaziabad, IN",
+  val exp      : String = "1 yr @ Whitehats Technologies",
+  val education: List<String> = listOf(
+    "MCA · ABES Engineering College · 7.7",
+    "BCA · IMS University Campus · 7.2"
+  ),
+  val stack    : List<String> = listOf(
+    "JUnit · TestNG · pytest",
+    "Postman · Newman · JMeter",
+    "JIRA · MSSQL · MySQL · Git",
+    "Python · SQL"
+  ),
+  val superpower : String = "Finding bugs before users do",
+  val goal       : String = "ISTQB Foundation Level",
+  val motto      : String = "If it's not tested, it's broken"
+)
 ```
 
 </td>
-</tr>
-</table>
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" alt="coding"/>
 
 <br/>
 
-<div align="center">
+![](https://img.shields.io/badge/Focus-API%20Testing-7F77DD?style=flat-square&labelColor=EEEDFE&color=534AB7)
+![](https://img.shields.io/badge/Focus-Defect%20Management-D4537E?style=flat-square&labelColor=FBEAF0&color=993556)
+![](https://img.shields.io/badge/Focus-Agile%20%2F%20Scrum-1D9E75?style=flat-square&labelColor=E1F5EE&color=0F6E56)
 
-### 📊 Impact, in numbers
+</td>
+</tr>
+</table>
+
+---
+
+## ✦ Impact Numbers
+
+<div align="center">
 
 <table>
 <tr>
-<td align="center" width="20%">
-
-**200+**
-<br/>
-test cases written
-
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/200%2B-7F77DD?style=for-the-badge" height="32"/><br/>
+<b>Test Cases Written</b><br/>
+<sub>regression · smoke · GUI · black-box</sub>
 </td>
-<td align="center" width="20%">
-
-**90%+**
-<br/>
-coverage maintained
-
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/90%25%2B-AFA9EC?style=for-the-badge" height="32"/><br/>
+<b>Test Coverage</b><br/>
+<sub>maintained every release cycle</sub>
 </td>
-<td align="center" width="20%">
-
-**30%**
-<br/>
-manual exec time cut
-
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/80%2B-D4537E?style=for-the-badge" height="32"/><br/>
+<b>Bugs Logged</b><br/>
+<sub>all tracked in JIRA with priority</sub>
 </td>
-<td align="center" width="20%">
-
-**95%**
-<br/>
-defects closed in-sprint
-
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/95%25-ED93B1?style=for-the-badge" height="32"/><br/>
+<b>Resolution Rate</b><br/>
+<sub>within sprint timelines</sub>
 </td>
-<td align="center" width="20%">
-
-**15+**
-<br/>
-data-layer bugs caught pre-UAT
-
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/30%25-1D9E75?style=for-the-badge" height="32"/><br/>
+<b>Time Saved</b><br/>
+<sub>via automation scripts</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/10%2B-5DCAA5?style=for-the-badge" height="32"/><br/>
+<b>Endpoints / Sprint</b><br/>
+<sub>API tested via Postman</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/15%2B-9FE1CB?style=for-the-badge" height="32"/><br/>
+<b>Data Bugs Pre-UAT</b><br/>
+<sub>caught via SQL validation</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/3-E1F5EE?style=for-the-badge&color=085041" height="32"/><br/>
+<b>Releases Signed Off</b><br/>
+<sub>production deployments owned</sub>
 </td>
 </tr>
 </table>
 
 </div>
 
-<br/>
+---
+
+## ✦ Tech Stack
 
 <div align="center">
 
-### 🧰 Tooling
+**Automation and Frameworks**
 
-</div>
+![JUnit](https://img.shields.io/badge/JUnit-%237F77DD.svg?style=for-the-badge&logo=junit5&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-%23AFA9EC.svg?style=for-the-badge&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23D4537E.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Newman](https://img.shields.io/badge/Newman-%23ED93B1.svg?style=for-the-badge&logo=postman&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-%23534AB7.svg?style=for-the-badge&logo=pytest&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-%237F77DD.svg?style=for-the-badge&logo=apachejmeter&logoColor=white)
 
-<table align="center" width="100%">
-<tr>
-<td align="center" width="25%" valign="top">
+**Defect Tracking and Databases**
+
+![JIRA](https://img.shields.io/badge/JIRA-%237F77DD.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23D4537E.svg?style=for-the-badge&logo=git&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-%23534AB7.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%23AFA9EC.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Languages**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=python,mysql" /><br/>
-SQL · Python
 
-</td>
-<td align="center" width="25%" valign="top">
+![Python](https://img.shields.io/badge/Python-%23D4537E.svg?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%237F77DD.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Automation**
-<br/><br/>
-TestNG · JUnit
-<br/>
-Postman · JMeter
+**Learning Next**
 
-</td>
-<td align="center" width="25%" valign="top">
-
-**Tracking & VCS**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github" /><br/>
-JIRA · Git
-
-</td>
-<td align="center" width="25%" valign="top">
-
-**Leveling up**
-<br/><br/>
-Jenkins (CI/CD)
-<br/>
-TestRail · BrowserStack
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-`Manual Testing` `Regression` `Smoke Testing` `Black-box` `API Testing` `GUI Testing` `Cross-browser Testing` `Performance Testing` `Database Testing` `Agile/Scrum` `SDLC` `Shift-Left Testing`
+![Jenkins](https://img.shields.io/badge/Jenkins-%23AFA9EC.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-%23534AB7.svg?style=for-the-badge&logoColor=white)
+![BrowserStack](https://img.shields.io/badge/BrowserStack-%23D4537E.svg?style=for-the-badge&logo=browserstack&logoColor=white)
 
 </div>
 
-<br/>
+---
 
-### 🗂️ Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### Stay Portal
-Hotel booking platform — end-to-end QA on booking and payment flows.
-
-- 🌐 Functional, regression & cross-browser testing across the full booking journey
-- 💳 Validated payment data integrity via MySQL backend checks
-- 🐞 Tracked 50+ defects in JIRA with priority tagging
-
-**Result:** `+35%` booking flow efficiency · `-40%` interface load time
-
-`JIRA` `MSSQL` `MySQL` `Cross-browser Testing`
-
-</td>
-<td width="50%" valign="top">
-
-#### Data Processing & Reporting Tool
-ETL pipeline validation — raw data ingestion to downstream reporting.
-
-- 🔍 Tested transformation logic against an ETL pipeline pulling from DB servers
-- ♻️ Wrote reusable TestNG scripts for data-transform validation
-- ⏱️ Cut regression test time via script reuse across builds
-
-**Result:** `-25%` regression test time · early-stage defect capture
-
-`TestNG` `JUnit` `MSSQL` `Automation Testing`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-### 💼 Experience
-
-<table align="center" width="100%">
-<tr>
-<th align="left">Role</th>
-<th align="left">Company</th>
-<th align="left">Duration</th>
-<th align="left">Highlights</th>
-</tr>
-<tr>
-<td valign="top"><b>Quality Analyst</b></td>
-<td valign="top">Whitehats Technologies</td>
-<td valign="top">02/2025 – 01/2026</td>
-<td valign="top">
-
-Owned regression/smoke/GUI/black-box testing at 90%+ coverage · automated API & report validation (JUnit, Postman) · ran sprint-level API testing across 10+ endpoints · logged 80+ defects with 95% same-sprint resolution · signed off on 3 production releases
-
-</td>
-</tr>
-</table>
-
-<br/>
+## ✦ Skill Proficiency
 
 <div align="center">
 
-### 📈 GitHub Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=vaishalisharma01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=8B949E" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishalisharma01&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=D29922&currStreakLabel=58A6FF" width="49%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishalisharma01&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" width="40%" />
+```
+  Defect management   ██████████████████████  92%  🟣
+  API testing         █████████████████████░  90%  🩷
+  JIRA                █████████████████████░  90%  🟣
+  Postman / Newman    ████████████████████░░  88%  🩷
+  Regression testing  █████████████████░░░░░  86%  🩷
+  SDLC                █████████████████░░░░░  85%  🟣
+  Test planning       ████████████████░░░░░░  84%  🟣
+  JUnit               ████████████████░░░░░░  82%  🟣
+  SQL / MSSQL         ████████████████░░░░░░  82%  🩷
+  Agile / Scrum       ████████████████░░░░░░  80%  🟣
+  Python              ███████████████░░░░░░░  75%  🩷
+  Cross-browser       ███████████████░░░░░░░  75%  🩷
+```
 
 </div>
 
-<br/>
+---
 
-### 🎓 Education
+## ✦ Work Experience
 
-<table align="center" width="100%">
-<tr>
-<td valign="top"><b>MCA</b></td>
-<td valign="top">ABES Engineering College, Ghaziabad, UP</td>
-<td valign="top">2022 – 2024</td>
-<td valign="top">CGPA: 7.7/10</td>
-</tr>
-<tr>
-<td valign="top"><b>BCA</b></td>
-<td valign="top">IMS University Courses Campus, Ghaziabad</td>
-<td valign="top">2019 – 2022</td>
-<td valign="top">CGPA: 7.2/10</td>
-</tr>
-</table>
+<details open>
+<summary><h3>&nbsp;🏢&nbsp; Quality Analyst &nbsp;·&nbsp; Whitehats Technologies &nbsp;·&nbsp; <code>Feb 2025 – Jan 2026</code></h3></summary>
 
 <br/>
+
+<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="160" alt="testing gif"/>
+
+> *Enterprise GRC platform — manual and automation testing*
+
+&nbsp;&nbsp;&nbsp;`🧪` Wrote and ran **200+ test cases** across regression, smoke, GUI, and black-box — **90%+** coverage maintained<br/>
+&nbsp;&nbsp;&nbsp;`🤖` Automated API and report validation with **JUnit and Postman**, cutting manual effort by **30%**<br/>
+&nbsp;&nbsp;&nbsp;`🔗` API tested **10+ endpoints** per sprint — caught data integrity issues before production<br/>
+&nbsp;&nbsp;&nbsp;`🐛` Logged **80+ defects** in JIRA with clear repro steps — **95%** resolved within same sprint<br/>
+&nbsp;&nbsp;&nbsp;`🗄️` Ran SQL against MSSQL to verify backend vs frontend — caught **15+ data-layer bugs** pre-UAT<br/>
+&nbsp;&nbsp;&nbsp;`🏃` Contributed to sprint planning, stand-ups, retros — signed off **3** production releases<br/>
+
+<br clear="right"/>
+</details>
+
+---
+
+## ✦ Featured Projects
+
+<details open>
+<summary><h3>&nbsp;🗄️&nbsp; Data Processing and Reporting Tool</h3></summary>
+<br/>
+
+> ETL pipeline — data ingestion from DB servers, transformation, analytical report generation
+
+```
+DB Servers ──▶️ Raw Data Scan ──▶️ Processing ──▶️ Report Generation
+    │                │               │                  │
+[SQL tests]   [JUnit scripts]  [pytest suites]   [Output validation]
+    ↓                ↓               ↓                  ↓
+✅ Verified     🐛 15+ caught    ✅ Validated       ✅ Accurate
+```
+
+| Metric | Result |
+|:-------|:-------|
+| Regression time saved | **~25%** via reusable JUnit / pytest scripts |
+| Primary framework | JUnit · TestNG · pytest |
+| Database layer | MSSQL |
+
+`JUnit` `TestNG` `pytest` `MSSQL` `ETL Validation` `Automation Testing`
+
+</details>
+
+<details open>
+<summary><h3>&nbsp;🏨&nbsp; Stay Portal — Booking and Payment Platform</h3></summary>
+<br/>
+
+> End-to-end testing of booking and payment flows across browsers
+
+```
+Booking Flow ──▶️ Payment Gateway ──▶️ Confirmation ──▶️ DB Record
+     │                 │                  │               │
+[Cross-browser]  [Functional test]  [Regression]   [MySQL query]
+     ↓                 ↓                  ↓               ↓
+✅ All browsers    ✅ No leaks       50+ bugs 🐛    ✅ Accurate
+```
+
+| Metric | Result |
+|:-------|:-------|
+| Booking efficiency | Improved by **35%** |
+| UI load time | Cut by **40%** |
+| Defects tracked | **50+** with priority tagging in JIRA |
+
+`JIRA` `MySQL` `MSSQL` `Manual Testing` `Cross-browser Testing` `Regression`
+
+</details>
+
+---
+
+## ✦ Career Timeline
+
+```
+  2019 ──────────────────────────────────────────────────── now
+
+  [BCA]          [MCA]              [QA @ Whitehats]    [Next ✨]
+  IMS Univ    ABES College         Enterprise GRC     Open to work
+  7.2 CGPA     7.7 CGPA          Feb 2025–Jan 2026   Intermediate QA
+  2019–2022    2022–2024         200+ cases · 80+ bugs  roles in IN
+```
+
+---
+
+## ✦ Education
 
 <div align="center">
 
-### 🤝 Let's connect
+| | Degree | College | Year | CGPA |
+|:---:|:---|:---|:---:|:---:|
+| 🌸 | **MCA** — Master of Computer Applications | ABES Engineering College, Ghaziabad | 2022–2024 | **7.7 / 10** |
+| 🌸 | **BCA** — Bachelor of Computer Applications | IMS University Courses Campus, Ghaziabad | 2019–2022 | **7.2 / 10** |
 
-I'm always happy to talk testing strategy, automation frameworks, or QA process — feel free to reach out.
+</div>
 
-<a href="https://www.linkedin.com/in/vaishalisharma01">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-058CC2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:shvaishali37@gmail.com">
-  <img src="https://img.shields.io/badge/Send_an_Email-D29922?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+---
+
+## ✦ My QA Philosophy
+
+<div align="center">
+
+```
+  ╭────────────────────────────────────────────────────────╮
+  │                                                        │
+  │   "Quality is not an act, it is a habit."             │
+  │                                    — Aristotle        │
+  │                                                        │
+  │   Every bug I catch = one less frustrated user  🌸    │
+  │                                                        │
+  │   Shift Left → Test Early → Test Often → Ship Right   │
+  │                                                        │
+  ╰────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+## ✦ Let's Connect
+
+<div align="center">
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%237F77DD.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=534AB7)](https://www.linkedin.com/in/vaishalisharma01/)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Send_an_Email-%23D4537E.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=993556)](mailto:shvaishali37@gmail.com)
+
+<br/>
+
+> 🟢 &nbsp; **Currently available** for intermediate QA Engineer roles in the software industry.
+> I reply within 24 hours and bring good energy to every team. Let's talk! 💜
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="500" alt="readme quote"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,30:ED93B1,70:AFA9EC,100:EEEDFE&height=120&section=footer" width="100%"/>
 
 </div>
+Isko check kariyo
