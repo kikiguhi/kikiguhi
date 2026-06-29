@@ -166,7 +166,7 @@ data class Vaishali(
   Defect management   ██████████████████████  92%  🟣
   API testing         █████████████████████░  90%  🩷
   JIRA                █████████████████████░  90%  🟣
-  Postman / Newman    ████████████████████░░  88%  🩷
+  Postman             ████████████████████░░  88%  🩷
   Regression testing  █████████████████░░░░░  86%  🩷
   SDLC                █████████████████░░░░░  85%  🟣
   Test planning       ████████████████░░░░░░  84%  🟣
@@ -252,7 +252,7 @@ Booking Flow ──▶️ Payment Gateway ──▶️ Confirmation ──▶️
 | UI load time | Cut by **40%** |
 | Defects tracked | **50+** with priority tagging in JIRA |
 
-`JIRA` `MySQL` `MSSQL` `Manual Testing` `Cross-browser Testing` `Regression`
+`JIRA` `MySQL` `Manual Testing` `Cross-browser Testing` `Regression`
 
 </details>
 
@@ -261,12 +261,12 @@ Booking Flow ──▶️ Payment Gateway ──▶️ Confirmation ──▶️
 ## ✦ Career Timeline
 
 ```
-  2019 ──────────────────────────────────────────────────── now
+  2019 ────────────────────────────────────────────── now
 
-  [BCA]          [MCA]           [QA @ Whitehats]          [Available]
-  IMS Univ    ABES College        Enterprise GRC           QA Engineer
-  7.2 CGPA     7.7 CGPA          Feb 2025–Jan 2026        Manual + Automation
-  2019–2022    2022–2024         200+ cases · 80+ bugs      Immediate Joiner
+  [BCA]          [MCA]           [QA @ Whitehats]          
+  IMS Univ    ABES College        Enterprise GRC           
+  7.2 CGPA     7.7 CGPA          Feb 2025–Jan 2026        
+  2019–2022    2022–2024         Manual QA • API • SQL      
 ```
 
 ---
