@@ -193,12 +193,12 @@ data class Vaishali(
 > *Enterprise GRC platform — manual and automation testing*
 
 
-&nbsp;&nbsp;&nbsp;`🧪` Wrote and executed **200+ test cases** for regression, smoke, GUI, and black-box testing — maintained **90%+** test coverage<br/>
-&nbsp;&nbsp;&nbsp;`🤖` Automated API and report validation with **JUnit and Postman**, cutting manual testing effort by **30%**<br/>
-&nbsp;&nbsp;&nbsp;`🔗` Tested **10+ API endpoints** every sprint — caught data integrity issues before production<br/>
-&nbsp;&nbsp;&nbsp;`🐛` Logged **80+ defects** in JIRA with clear reproduction steps — **95%** were resolved within the same sprint<br/>
-&nbsp;&nbsp;&nbsp;`🗄️` Ran SQL queries against **MSSQL** to verify backend data against the frontend — caught **15+** data-layer bugs before UAT<br/>
-&nbsp;&nbsp;&nbsp;`🏃` Contributed to sprint planning, stand-ups, and retrospectives — helped deliver **3** production releases<br/>
+&nbsp;&nbsp;&nbsp;`🧪` Write and execute **200+ test cases** for regression, smoke, GUI, and black-box testing — maintained **90%+** test coverage<br/>
+&nbsp;&nbsp;&nbsp;`🤖` Automated API and report validation with **JUnit and Postman**, reducing manual effort manual by **30%**<br/>
+&nbsp;&nbsp;&nbsp;`🔗` Test **10+ API endpoints** per sprint — identifying data integrity issues before production.<br/>
+&nbsp;&nbsp;&nbsp;`🐛` Log **80+ defects** in JIRA with clear reproduction steps — **95%** were resolved within the same sprint<br/>
+&nbsp;&nbsp;&nbsp;`🗄️` Execute SQL queries against **MSSQL** to verify backend data against the frontend — caught **15+** data-layer bugs before UAT<br/>
+&nbsp;&nbsp;&nbsp;`🏃` Contribute to sprint planning,daily stand-ups, and retrospectives — helping deliver **3** production releases and supporting successful production sign-offs.<br/>
 
 
 <br clear="right"/>
