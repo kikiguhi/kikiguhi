@@ -294,7 +294,7 @@ Booking Flow ──▶️ Payment Gateway ──▶️ Confirmation ──▶️
   │ "Quality means doing it right when no one is looking." │
   │                                    — Henry Ford       │
   │                                                        │
-  │   Every bug I catch = one less frustrated user  🌸    │
+  │  Ensuring quality through testing and automation.✨   │
   │                                                        │
   │   Shift Left → Test Early → Test Often → Ship Right   │
   │                                                        │
