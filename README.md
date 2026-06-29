@@ -263,10 +263,10 @@ Booking Flow ──▶️ Payment Gateway ──▶️ Confirmation ──▶️
 ```
   2019 ──────────────────────────────────────────────────── now
 
-  [BCA]          [MCA]              [QA @ Whitehats]    [Next ✨]
-  IMS Univ    ABES College         Enterprise GRC     QA Engineer
-  7.2 CGPA     7.7 CGPA          Feb 2025–Jan 2026   Manual + Automation
-  2019–2022    2022–2024         200+ cases · 80+ bugs  Open to work
+  [BCA]          [MCA]           [QA @ Whitehats]          [Next ✨]
+  IMS Univ    ABES College        Enterprise GRC           QA Engineer
+  7.2 CGPA     7.7 CGPA          Feb 2025–Jan 2026        Manual + Automation
+  2019–2022    2022–2024         200+ cases · 80+ bugs      Open to work
 ```
 
 ---
