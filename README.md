@@ -184,7 +184,7 @@ data class Vaishali(
 ## ✦ Work Experience
 
 <details open>
-<summary><h3>&nbsp;🏢&nbsp; Quality Analyst &nbsp;·&nbsp; Whitehats Technologies &nbsp;·&nbsp; <code>Feb 2025 – Jan 2026</code></h3></summary>
+<summary><h3>&nbsp;🏢&nbsp; Quality Analyst &nbsp;·&nbsp; Whitehats Technologies &nbsp;·&nbsp; <code>Feb 2025 </code></h3></summary>
 
 <br/>
 
